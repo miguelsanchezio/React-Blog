@@ -1,2 +1,2 @@
 # React Blog
-Assisted by the [ReduxSimpleStarter from Stephen Grider](https://github.com/StephenGrider/ReduxSimpleStarter)
+A simple blog built with react that grabs data from an external API.
